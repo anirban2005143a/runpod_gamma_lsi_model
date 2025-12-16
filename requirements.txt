@@ -1,7 +1,10 @@
 fastapi
 uvicorn
+bitsandbytes
 transformers>=4.43
 peft
 accelerate
 safetensors
 torch  # pick the right CUDA build for your machine
+runpod
+huggingface-hub
